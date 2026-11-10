@@ -28,7 +28,3 @@ currently working on LLMs, system designs, APIs and end to end deployable system
 [![](https://komarev.com/ghpvc/?username=ospreyboi&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  
-![snake gif](https://github.com/ospreyboi/ospreyboi/blob/output/github-snake-dark.svg)
-</div>
